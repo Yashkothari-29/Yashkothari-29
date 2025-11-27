@@ -32,7 +32,7 @@
 
 ---
 
-# 🛠 Tech Stack (Premium Attractive Style)
+# 🛠 Tech Stack
 
 ### 🚀 **Languages**
 <p align="center">

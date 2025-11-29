@@ -61,7 +61,7 @@
 
 ---
 
-# 📊 GitHub Stats (One Row — Premium Layout)
+# 📊 GitHub Stats
 
 <div align="center">
 
